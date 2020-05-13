@@ -1,0 +1,24 @@
+Tarifa = é o valor a ser cobrado pela prestação dos serviços de geração, transmissão e distribuição de energia
+
+Preço =  é a composição da tarifa com os impostos. O preço final é igual à tarifa somada aos impostos (ICMS e PIS/COFINS).
+
+O valor que você paga é a energia consumida em KWH (quilowatt-hora),
+  multiplicada pela tarifa com imposto vigente na sua região.
+
+Cálculo do valor que você paga: (valor do consumo do mês em KHW * tarifa com
+imposto), VP = valor a ser pago sendo VM = valor do consumo do mês em KHW e TI = tarifa com imposto
+
+(VP = VM * TI)
+
+Contribuição para o Custeio da Iluminação Pública dos Municípios(COSIP):
+Imposto sobre a Circulação de Mercadorias e Serviços (ICMS):
+
+Alíquotas:
+PIS/Pasep: 1,65%
+COFINS: 7,6%
+
+Problema(Valores)
+
+    Tarifa1: KWH= 0.5572 (sem impostos: CMS, PIS e COFINS.)
+    Tarifa2: KHW = ? (com impostos)
+
